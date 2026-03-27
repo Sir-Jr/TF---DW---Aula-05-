@@ -113,14 +113,6 @@ O código utiliza `chalk` para colorir diferentes tipos de mensagens:
 - `chalk.cyan()`: Para destacar conteúdo do arquivo
 - `chalk.red()`: Para erros
 - `chalk.black.bgGreen()`: Para mensagem final de sucesso
-
-🔵 Azul para mensagens informativas gerais
-🟡 Amarelo para ações em andamento
-🟢 Verde para confirmações de sucesso
-🔵 Ciano para destacar conteúdo do arquivo
-🔴 Vermelho para erros
-🟢 Verde com fundo para mensagem final de sucesso
-
 ### Execução da Função
 
 ```javascript
@@ -208,7 +200,7 @@ Esta atividade aborda os seguintes conceitos importantes:
 
 ## Autor
 
-[Seu Nome] - Atividade da disciplina de Desenvolvimento Web
+Sirlande Martins - Atividade da disciplina de Desenvolvimento Web
 
 ## Licença
 
